@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Repository</title>
+</head>
+<body>
+<div>
+<b>ХНЕУ</b><p>
+<i>Ф-т Iнформ. тех</i><p>
+<u>Кафедра iнформатики та комп. техники</u>
+
+</div>
+
+</body>
+</html>
